@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichalKowalczyk/three-js-starter.git"
+    "url": "https://github.com/MichalKowalczyk/three-js-starter.git"
   },
   "keywords": [
     "three.js",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/MichalKowalczyk/three-js-starter/issues"
   },
-  "homepage": "https://morzekawy.pl/",
+  "homepage": "https://morzekawy.pl",
   "devDependencies": {
     "serve": "^11.2.0"
   }
