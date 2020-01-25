@@ -1,0 +1,29 @@
+{
+  "name": "static-three-js",
+  "version": "1.0.0",
+  "description": "This is a static three.js template with no bundling",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalKowalczyk/three-js-starter.git"
+  },
+  "keywords": [
+    "three.js",
+    "three.js example",
+    "three.js starter",
+    "three.js course",
+    "three.js simple scene"
+  ],
+  "author": "Michal Kowalczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichalKowalczyk/three-js-starter/issues"
+  },
+  "homepage": "https://morzekawy.pl/",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
